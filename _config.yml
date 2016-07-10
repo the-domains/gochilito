@@ -1,0 +1,28 @@
+name: gochilito
+favicon: null
+layout_spectrum: 0.08520481386221945
+typography_spectrum: 0.08174294931814075
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8196800479199737
+  lightness: 0.7019945892971009
+  saturation: 0.9355594802182168
+  rhythmicContrast: 0.10327827511355281
+purpose: []
